@@ -648,7 +648,8 @@ const Hero = () => {
             transition={{ delay: 0.1 }}
             className="text-5xl md:text-7xl font-bold font-heading tracking-tight mb-6 leading-[1.1]"
         >
-          Your AI Media Buyer
+          Stop Guessing.
+Audit Your Ads Before You Spend.
         </motion.h1>
         
         <motion.p 
